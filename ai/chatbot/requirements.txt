@@ -3,6 +3,8 @@ Pillow
 PyMuPDF
 PyPDF2
 beautifulsoup4
+bitsandbytes
+decord
 docling
 google-generativeai
 groq
@@ -19,6 +21,7 @@ langchain-pinecone
 langchain-text-splitters
 langgraph
 llama_parse
+llamafactory
 lxml
 matplotlib
 nest_asyncio
@@ -31,10 +34,11 @@ plotly
 pydantic
 pygments
 pymupdf4llm
-qwen_vl_utils
+qwen-vl-utils
 rapidfuzz
 requests
 rich
+scipy
 selenium
 sentence-transformers
 tabulate
