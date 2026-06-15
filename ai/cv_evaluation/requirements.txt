@@ -1,0 +1,8 @@
+PyPDF2
+docling
+google-generativeai
+numpy<2.0
+pandas
+pdfplumber
+python-docx
+spacy
