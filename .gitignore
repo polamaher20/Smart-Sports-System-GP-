@@ -1,0 +1,48 @@
+# ========================
+# Python & Jupyter
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ========================
+# Secrets & Environments
+# ========================
+.env
+venv/
+env/
+.venv/
+.streamlit/secrets.toml
+
+# ========================
+# 🤖 AI Models & Fine-Tuning
+# ========================
+# Specific training paths
+ai/llm_finetuning/data/
+ai/llm_finetuning/outputs/
+ai/llm_finetuning/checkpoints/
+results/
+# General neural network weights & adapters
+*.h5
+*.keras
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+
+# ========================
+# 🗃️ LangGraph & Local Databases
+# ========================
+*.sqlite
+*.sqlite3
+*.db
+
+# ========================
+# 💻 OS, Logs & Temp Files
+# ========================
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
