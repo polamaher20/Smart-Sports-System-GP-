@@ -1,0 +1,1597 @@
+search_query,fdc_id,food_name,food_category,data_type,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g,saturated_fat_g,cholesterol_mg,sodium_mg,iron_mg,calcium_mg,potassium_mg,magnesium_mg,vitamin_c_mg,vitamin_b12_ug,text_chunk
+"Chicken breast, raw",2646170,"Chicken, breast, boneless, skinless, raw",Poultry Products,Foundation,0.0,22.5,0.0,1.93,0.0,0.0,0.349,72.7,65.8,0.354,3.94,330.0,26.2,0.0,0.0,"Food: Chicken, breast, boneless, skinless, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 22.5 g
+        - Carbohydrates: 0.0 g
+        - Fat: 1.93 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.349 g
+        - Cholesterol: 72.7 mg
+        - Sodium: 65.8 mg
+        - Iron: 0.354 mg
+        - Calcium: 3.94 mg
+        - Potassium: 330.0 mg
+        - Magnesium: 26.2 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Poultry Products
+        Data Source Type: Foundation"
+"Chicken thigh, raw",172855,"Chicken, skin (drumsticks and thighs), raw",Poultry Products,SR Legacy,440.0,9.58,0.79,44.2,0.0,0.0,12.1,105.0,51.0,0.37,6.0,119.0,8.0,0.0,0.65,"Food: Chicken, skin (drumsticks and thighs), raw
+
+        Per 100 grams:
+        - Calories: 440.0 kcal
+        - Protein: 9.58 g
+        - Carbohydrates: 0.79 g
+        - Fat: 44.2 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 12.1 g
+        - Cholesterol: 105.0 mg
+        - Sodium: 51.0 mg
+        - Iron: 0.37 mg
+        - Calcium: 6.0 mg
+        - Potassium: 119.0 mg
+        - Magnesium: 8.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.65 µg
+
+        Category: Poultry Products
+        Data Source Type: SR Legacy"
+"Turkey breast, raw",171098,"Turkey, whole, breast, meat only, raw",Poultry Products,SR Legacy,114.0,23.7,0.14,1.48,0.0,0.0,0.289,57.0,113.0,0.73,11.0,242.0,28.0,0.0,0.63,"Food: Turkey, whole, breast, meat only, raw
+
+        Per 100 grams:
+        - Calories: 114.0 kcal
+        - Protein: 23.7 g
+        - Carbohydrates: 0.14 g
+        - Fat: 1.48 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.289 g
+        - Cholesterol: 57.0 mg
+        - Sodium: 113.0 mg
+        - Iron: 0.73 mg
+        - Calcium: 11.0 mg
+        - Potassium: 242.0 mg
+        - Magnesium: 28.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.63 µg
+
+        Category: Poultry Products
+        Data Source Type: SR Legacy"
+"Ground beef, 95% lean, raw",171790,"Beef, ground, 95% lean meat / 5% fat, raw",Beef Products,SR Legacy,137.0,21.4,0.0,5.0,0.0,0.0,2.18,62.0,66.0,2.38,9.0,346.0,22.0,0.0,2.24,"Food: Beef, ground, 95% lean meat / 5% fat, raw
+
+        Per 100 grams:
+        - Calories: 137.0 kcal
+        - Protein: 21.4 g
+        - Carbohydrates: 0.0 g
+        - Fat: 5.0 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 2.18 g
+        - Cholesterol: 62.0 mg
+        - Sodium: 66.0 mg
+        - Iron: 2.38 mg
+        - Calcium: 9.0 mg
+        - Potassium: 346.0 mg
+        - Magnesium: 22.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 2.24 µg
+
+        Category: Beef Products
+        Data Source Type: SR Legacy"
+"Beef, top sirloin, raw",2727574,"Beef, top sirloin steak, raw",Beef Products,Foundation,0.0,22.0,0.218,5.71,0.0,0.0,0.0,60.1,42.8,2.22,3.7,349.0,22.1,0.0,0.0,"Food: Beef, top sirloin steak, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 22.0 g
+        - Carbohydrates: 0.218 g
+        - Fat: 5.71 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 60.1 mg
+        - Sodium: 42.8 mg
+        - Iron: 2.22 mg
+        - Calcium: 3.7 mg
+        - Potassium: 349.0 mg
+        - Magnesium: 22.1 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Beef Products
+        Data Source Type: Foundation"
+"Beef, liver, raw",169451,"Beef, variety meats and by-products, liver, raw",Beef Products,SR Legacy,135.0,20.4,3.89,3.63,0.0,0.0,1.23,275.0,69.0,4.9,5.0,313.0,18.0,1.3,59.3,"Food: Beef, variety meats and by-products, liver, raw
+
+        Per 100 grams:
+        - Calories: 135.0 kcal
+        - Protein: 20.4 g
+        - Carbohydrates: 3.89 g
+        - Fat: 3.63 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 1.23 g
+        - Cholesterol: 275.0 mg
+        - Sodium: 69.0 mg
+        - Iron: 4.9 mg
+        - Calcium: 5.0 mg
+        - Potassium: 313.0 mg
+        - Magnesium: 18.0 mg
+        - Vitamin C: 1.3 mg
+        - Vitamin B12: 59.3 µg
+
+        Category: Beef Products
+        Data Source Type: SR Legacy"
+"Rabbit, raw",174347,"Game meat, rabbit, wild, raw","Lamb, Veal, and Game Products",SR Legacy,114.0,21.8,0.0,2.32,0.0,0.0,0.69,81.0,50.0,3.2,12.0,378.0,29.0,0.0,0.0,"Food: Game meat, rabbit, wild, raw
+
+        Per 100 grams:
+        - Calories: 114.0 kcal
+        - Protein: 21.8 g
+        - Carbohydrates: 0.0 g
+        - Fat: 2.32 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.69 g
+        - Cholesterol: 81.0 mg
+        - Sodium: 50.0 mg
+        - Iron: 3.2 mg
+        - Calcium: 12.0 mg
+        - Potassium: 378.0 mg
+        - Magnesium: 29.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Lamb, Veal, and Game Products
+        Data Source Type: SR Legacy"
+"Tilapia, raw",175176,"Fish, tilapia, raw",Finfish and Shellfish Products,SR Legacy,96.0,20.1,0.0,1.7,0.0,0.0,0.585,50.0,52.0,0.56,10.0,302.0,27.0,0.0,1.58,"Food: Fish, tilapia, raw
+
+        Per 100 grams:
+        - Calories: 96.0 kcal
+        - Protein: 20.1 g
+        - Carbohydrates: 0.0 g
+        - Fat: 1.7 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.585 g
+        - Cholesterol: 50.0 mg
+        - Sodium: 52.0 mg
+        - Iron: 0.56 mg
+        - Calcium: 10.0 mg
+        - Potassium: 302.0 mg
+        - Magnesium: 27.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 1.58 µg
+
+        Category: Finfish and Shellfish Products
+        Data Source Type: SR Legacy"
+"Salmon, raw",173688,"Fish, salmon, chinook, raw",Finfish and Shellfish Products,SR Legacy,179.0,19.9,0.0,10.4,0.0,0.0,3.1,50.0,47.0,0.25,26.0,394.0,95.0,4.0,1.3,"Food: Fish, salmon, chinook, raw
+
+        Per 100 grams:
+        - Calories: 179.0 kcal
+        - Protein: 19.9 g
+        - Carbohydrates: 0.0 g
+        - Fat: 10.4 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 3.1 g
+        - Cholesterol: 50.0 mg
+        - Sodium: 47.0 mg
+        - Iron: 0.25 mg
+        - Calcium: 26.0 mg
+        - Potassium: 394.0 mg
+        - Magnesium: 95.0 mg
+        - Vitamin C: 4.0 mg
+        - Vitamin B12: 1.3 µg
+
+        Category: Finfish and Shellfish Products
+        Data Source Type: SR Legacy"
+"Tuna, light, canned in water",334194,"Fish, tuna, light, canned in water, drained solids",Finfish and Shellfish Products,Foundation,90.0,19.0,0.08,0.94,0.0,0.0,0.224,36.0,219.0,1.67,18.0,176.0,22.7,0.0,2.57,"Food: Fish, tuna, light, canned in water, drained solids
+
+        Per 100 grams:
+        - Calories: 90.0 kcal
+        - Protein: 19.0 g
+        - Carbohydrates: 0.08 g
+        - Fat: 0.94 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.224 g
+        - Cholesterol: 36.0 mg
+        - Sodium: 219.0 mg
+        - Iron: 1.67 mg
+        - Calcium: 18.0 mg
+        - Potassium: 176.0 mg
+        - Magnesium: 22.7 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 2.57 µg
+
+        Category: Finfish and Shellfish Products
+        Data Source Type: Foundation"
+"Shrimp, raw",175179,"Crustaceans, shrimp, raw",Finfish and Shellfish Products,SR Legacy,85.0,20.1,0.0,0.51,0.0,0.0,0.101,161.0,119.0,0.52,64.0,264.0,35.0,0.0,0.0,"Food: Crustaceans, shrimp, raw
+
+        Per 100 grams:
+        - Calories: 85.0 kcal
+        - Protein: 20.1 g
+        - Carbohydrates: 0.0 g
+        - Fat: 0.51 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.101 g
+        - Cholesterol: 161.0 mg
+        - Sodium: 119.0 mg
+        - Iron: 0.52 mg
+        - Calcium: 64.0 mg
+        - Potassium: 264.0 mg
+        - Magnesium: 35.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Finfish and Shellfish Products
+        Data Source Type: SR Legacy"
+"Mackerel, raw",175119,"Fish, mackerel, Atlantic, raw",Finfish and Shellfish Products,SR Legacy,205.0,18.6,0.0,13.9,0.0,0.0,3.26,70.0,90.0,1.63,12.0,314.0,76.0,0.4,8.71,"Food: Fish, mackerel, Atlantic, raw
+
+        Per 100 grams:
+        - Calories: 205.0 kcal
+        - Protein: 18.6 g
+        - Carbohydrates: 0.0 g
+        - Fat: 13.9 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 3.26 g
+        - Cholesterol: 70.0 mg
+        - Sodium: 90.0 mg
+        - Iron: 1.63 mg
+        - Calcium: 12.0 mg
+        - Potassium: 314.0 mg
+        - Magnesium: 76.0 mg
+        - Vitamin C: 0.4 mg
+        - Vitamin B12: 8.71 µg
+
+        Category: Finfish and Shellfish Products
+        Data Source Type: SR Legacy"
+"Sardines, canned",175139,"Fish, sardine, Atlantic, canned in oil, drained solids with bone",Finfish and Shellfish Products,SR Legacy,208.0,24.6,0.0,11.4,0.0,0.0,1.53,142.0,307.0,2.92,382.0,397.0,39.0,0.0,8.94,"Food: Fish, sardine, Atlantic, canned in oil, drained solids with bone
+
+        Per 100 grams:
+        - Calories: 208.0 kcal
+        - Protein: 24.6 g
+        - Carbohydrates: 0.0 g
+        - Fat: 11.4 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 1.53 g
+        - Cholesterol: 142.0 mg
+        - Sodium: 307.0 mg
+        - Iron: 2.92 mg
+        - Calcium: 382.0 mg
+        - Potassium: 397.0 mg
+        - Magnesium: 39.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 8.94 µg
+
+        Category: Finfish and Shellfish Products
+        Data Source Type: SR Legacy"
+"Egg, whole, raw",171287,"Egg, whole, raw, fresh",Dairy and Egg Products,SR Legacy,143.0,12.6,0.72,9.51,0.0,0.0,3.13,372.0,142.0,1.75,56.0,138.0,12.0,0.0,0.89,"Food: Egg, whole, raw, fresh
+
+        Per 100 grams:
+        - Calories: 143.0 kcal
+        - Protein: 12.6 g
+        - Carbohydrates: 0.72 g
+        - Fat: 9.51 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 3.13 g
+        - Cholesterol: 372.0 mg
+        - Sodium: 142.0 mg
+        - Iron: 1.75 mg
+        - Calcium: 56.0 mg
+        - Potassium: 138.0 mg
+        - Magnesium: 12.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.89 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Egg white, raw",172183,"Egg, white, raw, fresh",Dairy and Egg Products,SR Legacy,52.0,10.9,0.73,0.17,0.0,0.0,0.0,0.0,166.0,0.08,7.0,163.0,11.0,0.0,0.09,"Food: Egg, white, raw, fresh
+
+        Per 100 grams:
+        - Calories: 52.0 kcal
+        - Protein: 10.9 g
+        - Carbohydrates: 0.73 g
+        - Fat: 0.17 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 166.0 mg
+        - Iron: 0.08 mg
+        - Calcium: 7.0 mg
+        - Potassium: 163.0 mg
+        - Magnesium: 11.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.09 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Cheese, cottage, lowfat",173417,"Cheese, cottage, lowfat, 1% milkfat",Dairy and Egg Products,SR Legacy,72.0,12.4,2.72,1.02,0.0,0.0,0.645,4.0,406.0,0.14,61.0,86.0,5.0,0.0,0.63,"Food: Cheese, cottage, lowfat, 1% milkfat
+
+        Per 100 grams:
+        - Calories: 72.0 kcal
+        - Protein: 12.4 g
+        - Carbohydrates: 2.72 g
+        - Fat: 1.02 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.645 g
+        - Cholesterol: 4.0 mg
+        - Sodium: 406.0 mg
+        - Iron: 0.14 mg
+        - Calcium: 61.0 mg
+        - Potassium: 86.0 mg
+        - Magnesium: 5.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.63 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Cheese, feta",173420,"Cheese, feta",Dairy and Egg Products,SR Legacy,265.0,14.2,3.88,21.5,0.0,0.0,13.3,89.0,1140.0,0.65,493.0,62.0,19.0,0.0,1.69,"Food: Cheese, feta
+
+        Per 100 grams:
+        - Calories: 265.0 kcal
+        - Protein: 14.2 g
+        - Carbohydrates: 3.88 g
+        - Fat: 21.5 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 13.3 g
+        - Cholesterol: 89.0 mg
+        - Sodium: 1140.0 mg
+        - Iron: 0.65 mg
+        - Calcium: 493.0 mg
+        - Potassium: 62.0 mg
+        - Magnesium: 19.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 1.69 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Yogurt, Greek, plain, nonfat",330137,"Yogurt, Greek, plain, nonfat",Dairy and Egg Products,Foundation,61.0,10.3,3.64,0.37,0.0,0.0,0.108,5.0,36.0,0.07,111.0,141.0,10.7,0.0,0.7,"Food: Yogurt, Greek, plain, nonfat
+
+        Per 100 grams:
+        - Calories: 61.0 kcal
+        - Protein: 10.3 g
+        - Carbohydrates: 3.64 g
+        - Fat: 0.37 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.108 g
+        - Cholesterol: 5.0 mg
+        - Sodium: 36.0 mg
+        - Iron: 0.07 mg
+        - Calcium: 111.0 mg
+        - Potassium: 141.0 mg
+        - Magnesium: 10.7 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.7 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: Foundation"
+"Yogurt, plain, whole milk",171284,"Yogurt, plain, whole milk",Dairy and Egg Products,SR Legacy,61.0,3.47,4.66,3.25,0.0,0.0,2.1,13.0,46.0,0.05,121.0,155.0,12.0,0.5,0.37,"Food: Yogurt, plain, whole milk
+
+        Per 100 grams:
+        - Calories: 61.0 kcal
+        - Protein: 3.47 g
+        - Carbohydrates: 4.66 g
+        - Fat: 3.25 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 2.1 g
+        - Cholesterol: 13.0 mg
+        - Sodium: 46.0 mg
+        - Iron: 0.05 mg
+        - Calcium: 121.0 mg
+        - Potassium: 155.0 mg
+        - Magnesium: 12.0 mg
+        - Vitamin C: 0.5 mg
+        - Vitamin B12: 0.37 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Milk, whole",170845,"Cheese, mozzarella, whole milk",Dairy and Egg Products,SR Legacy,299.0,22.2,2.4,22.1,0.0,0.0,13.9,79.0,486.0,0.44,505.0,76.0,20.0,0.0,2.28,"Food: Cheese, mozzarella, whole milk
+
+        Per 100 grams:
+        - Calories: 299.0 kcal
+        - Protein: 22.2 g
+        - Carbohydrates: 2.4 g
+        - Fat: 22.1 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 13.9 g
+        - Cholesterol: 79.0 mg
+        - Sodium: 486.0 mg
+        - Iron: 0.44 mg
+        - Calcium: 505.0 mg
+        - Potassium: 76.0 mg
+        - Magnesium: 20.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 2.28 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Milk, skim",170887,"Yogurt, plain, skim milk",Dairy and Egg Products,SR Legacy,56.0,5.73,7.68,0.18,0.0,0.0,0.116,2.0,77.0,0.09,199.0,255.0,19.0,0.9,0.61,"Food: Yogurt, plain, skim milk
+
+        Per 100 grams:
+        - Calories: 56.0 kcal
+        - Protein: 5.73 g
+        - Carbohydrates: 7.68 g
+        - Fat: 0.18 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.116 g
+        - Cholesterol: 2.0 mg
+        - Sodium: 77.0 mg
+        - Iron: 0.09 mg
+        - Calcium: 199.0 mg
+        - Potassium: 255.0 mg
+        - Magnesium: 19.0 mg
+        - Vitamin C: 0.9 mg
+        - Vitamin B12: 0.61 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Kefir, plain",170904,"Kefir, lowfat, plain, LIFEWAY",Dairy and Egg Products,SR Legacy,43.0,3.79,4.77,1.02,0.0,0.0,0.658,5.0,40.0,0.04,130.0,164.0,12.0,0.2,0.29,"Food: Kefir, lowfat, plain, LIFEWAY
+
+        Per 100 grams:
+        - Calories: 43.0 kcal
+        - Protein: 3.79 g
+        - Carbohydrates: 4.77 g
+        - Fat: 1.02 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.658 g
+        - Cholesterol: 5.0 mg
+        - Sodium: 40.0 mg
+        - Iron: 0.04 mg
+        - Calcium: 130.0 mg
+        - Potassium: 164.0 mg
+        - Magnesium: 12.0 mg
+        - Vitamin C: 0.2 mg
+        - Vitamin B12: 0.29 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Broadbeans (fava beans), raw",175205,"Broadbeans (fava beans), mature seeds, raw",Legumes and Legume Products,SR Legacy,341.0,26.1,58.3,1.53,25.0,0.0,0.254,0.0,13.0,6.7,103.0,1060.0,192.0,1.4,0.0,"Food: Broadbeans (fava beans), mature seeds, raw
+
+        Per 100 grams:
+        - Calories: 341.0 kcal
+        - Protein: 26.1 g
+        - Carbohydrates: 58.3 g
+        - Fat: 1.53 g
+        - Fiber: 25.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.254 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 13.0 mg
+        - Iron: 6.7 mg
+        - Calcium: 103.0 mg
+        - Potassium: 1060.0 mg
+        - Magnesium: 192.0 mg
+        - Vitamin C: 1.4 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: SR Legacy"
+"Lupins, raw",172423,"Lupins, mature seeds, raw",Legumes and Legume Products,SR Legacy,371.0,36.2,40.4,9.74,18.9,0.0,1.16,0.0,15.0,4.36,176.0,1010.0,198.0,4.8,0.0,"Food: Lupins, mature seeds, raw
+
+        Per 100 grams:
+        - Calories: 371.0 kcal
+        - Protein: 36.2 g
+        - Carbohydrates: 40.4 g
+        - Fat: 9.74 g
+        - Fiber: 18.9 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 1.16 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 15.0 mg
+        - Iron: 4.36 mg
+        - Calcium: 176.0 mg
+        - Potassium: 1010.0 mg
+        - Magnesium: 198.0 mg
+        - Vitamin C: 4.8 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: SR Legacy"
+"Lentils, raw",172420,"Lentils, raw",Legumes and Legume Products,SR Legacy,352.0,24.6,63.4,1.06,10.7,0.0,0.154,0.0,6.0,6.51,35.0,677.0,47.0,4.5,0.0,"Food: Lentils, raw
+
+        Per 100 grams:
+        - Calories: 352.0 kcal
+        - Protein: 24.6 g
+        - Carbohydrates: 63.4 g
+        - Fat: 1.06 g
+        - Fiber: 10.7 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.154 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 6.0 mg
+        - Iron: 6.51 mg
+        - Calcium: 35.0 mg
+        - Potassium: 677.0 mg
+        - Magnesium: 47.0 mg
+        - Vitamin C: 4.5 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: SR Legacy"
+"Chickpeas, raw",173756,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",Legumes and Legume Products,SR Legacy,378.0,20.5,63.0,6.04,12.2,0.0,0.603,0.0,24.0,4.31,57.0,718.0,79.0,4.0,0.0,"Food: Chickpeas (garbanzo beans, bengal gram), mature seeds, raw
+
+        Per 100 grams:
+        - Calories: 378.0 kcal
+        - Protein: 20.5 g
+        - Carbohydrates: 63.0 g
+        - Fat: 6.04 g
+        - Fiber: 12.2 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.603 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 24.0 mg
+        - Iron: 4.31 mg
+        - Calcium: 57.0 mg
+        - Potassium: 718.0 mg
+        - Magnesium: 79.0 mg
+        - Vitamin C: 4.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: SR Legacy"
+"Black beans, raw",173734,"Beans, black, mature seeds, raw",Legumes and Legume Products,SR Legacy,341.0,21.6,62.4,1.42,15.5,0.0,0.366,0.0,5.0,5.02,123.0,1480.0,171.0,0.0,0.0,"Food: Beans, black, mature seeds, raw
+
+        Per 100 grams:
+        - Calories: 341.0 kcal
+        - Protein: 21.6 g
+        - Carbohydrates: 62.4 g
+        - Fat: 1.42 g
+        - Fiber: 15.5 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.366 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 5.0 mg
+        - Iron: 5.02 mg
+        - Calcium: 123.0 mg
+        - Potassium: 1480.0 mg
+        - Magnesium: 171.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: SR Legacy"
+"Tofu, firm, raw",172475,"Tofu, raw, firm, prepared with calcium sulfate",Legumes and Legume Products,SR Legacy,144.0,17.3,2.78,8.72,2.3,0.0,1.26,0.0,14.0,2.66,683.0,237.0,58.0,0.2,0.0,"Food: Tofu, raw, firm, prepared with calcium sulfate
+
+        Per 100 grams:
+        - Calories: 144.0 kcal
+        - Protein: 17.3 g
+        - Carbohydrates: 2.78 g
+        - Fat: 8.72 g
+        - Fiber: 2.3 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 1.26 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 14.0 mg
+        - Iron: 2.66 mg
+        - Calcium: 683.0 mg
+        - Potassium: 237.0 mg
+        - Magnesium: 58.0 mg
+        - Vitamin C: 0.2 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: SR Legacy"
+"Bread, pita, whole-wheat",174916,"Bread, pita, whole-wheat",Baked Products,SR Legacy,262.0,9.8,55.9,1.71,6.1,0.0,0.208,0.0,421.0,3.06,15.0,170.0,69.0,0.0,0.0,"Food: Bread, pita, whole-wheat
+
+        Per 100 grams:
+        - Calories: 262.0 kcal
+        - Protein: 9.8 g
+        - Carbohydrates: 55.9 g
+        - Fat: 1.71 g
+        - Fiber: 6.1 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.208 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 421.0 mg
+        - Iron: 3.06 mg
+        - Calcium: 15.0 mg
+        - Potassium: 170.0 mg
+        - Magnesium: 69.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Baked Products
+        Data Source Type: SR Legacy"
+"Rice, white, short-grain, raw",168931,"Rice, white, short-grain, raw, unenriched",Cereal Grains and Pasta,SR Legacy,358.0,6.5,79.2,0.52,0.0,0.0,0.14,0.0,1.0,0.8,3.0,76.0,23.0,0.0,0.0,"Food: Rice, white, short-grain, raw, unenriched
+
+        Per 100 grams:
+        - Calories: 358.0 kcal
+        - Protein: 6.5 g
+        - Carbohydrates: 79.2 g
+        - Fat: 0.52 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.14 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.0 mg
+        - Iron: 0.8 mg
+        - Calcium: 3.0 mg
+        - Potassium: 76.0 mg
+        - Magnesium: 23.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Cereal Grains and Pasta
+        Data Source Type: SR Legacy"
+"Rice, brown, raw",2512380,"Rice, brown, long grain, unenriched, raw",Cereal Grains and Pasta,Foundation,0.0,7.25,76.7,3.31,3.02,0.0,0.0,0.0,0.0,1.24,8.06,250.0,115.0,0.0,0.0,"Food: Rice, brown, long grain, unenriched, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 7.25 g
+        - Carbohydrates: 76.7 g
+        - Fat: 3.31 g
+        - Fiber: 3.02 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 1.24 mg
+        - Calcium: 8.06 mg
+        - Potassium: 250.0 mg
+        - Magnesium: 115.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Cereal Grains and Pasta
+        Data Source Type: Foundation"
+"Oats, raw",168872,"Oat bran, raw",Cereal Grains and Pasta,SR Legacy,246.0,17.3,66.2,7.03,15.4,0.0,1.33,0.0,4.0,5.41,58.0,566.0,235.0,0.0,0.0,"Food: Oat bran, raw
+
+        Per 100 grams:
+        - Calories: 246.0 kcal
+        - Protein: 17.3 g
+        - Carbohydrates: 66.2 g
+        - Fat: 7.03 g
+        - Fiber: 15.4 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 1.33 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 4.0 mg
+        - Iron: 5.41 mg
+        - Calcium: 58.0 mg
+        - Potassium: 566.0 mg
+        - Magnesium: 235.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Cereal Grains and Pasta
+        Data Source Type: SR Legacy"
+"Sweet potato, raw",169303,"Sweet potato leaves, raw",Vegetables and Vegetable Products,SR Legacy,42.0,2.49,8.82,0.51,5.3,0.0,0.111,0.0,6.0,0.97,78.0,508.0,70.0,11.0,0.0,"Food: Sweet potato leaves, raw
+
+        Per 100 grams:
+        - Calories: 42.0 kcal
+        - Protein: 2.49 g
+        - Carbohydrates: 8.82 g
+        - Fat: 0.51 g
+        - Fiber: 5.3 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.111 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 6.0 mg
+        - Iron: 0.97 mg
+        - Calcium: 78.0 mg
+        - Potassium: 508.0 mg
+        - Magnesium: 70.0 mg
+        - Vitamin C: 11.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Potato, russet, raw",2346401,"Potatoes, russet, without skin, raw",Vegetables and Vegetable Products,Foundation,0.0,2.27,17.8,0.36,0.0,0.0,0.0,0.0,2.74,0.384,7.8,450.0,25.6,10.9,0.0,"Food: Potatoes, russet, without skin, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 2.27 g
+        - Carbohydrates: 17.8 g
+        - Fat: 0.36 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 2.74 mg
+        - Iron: 0.384 mg
+        - Calcium: 7.8 mg
+        - Potassium: 450.0 mg
+        - Magnesium: 25.6 mg
+        - Vitamin C: 10.9 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: Foundation"
+"Macaroni, dry",168903,"Macaroni, vegetable, enriched, dry",Cereal Grains and Pasta,SR Legacy,367.0,13.1,74.9,1.04,4.3,0.0,0.15,0.0,43.0,4.28,34.0,285.0,46.0,0.0,0.0,"Food: Macaroni, vegetable, enriched, dry
+
+        Per 100 grams:
+        - Calories: 367.0 kcal
+        - Protein: 13.1 g
+        - Carbohydrates: 74.9 g
+        - Fat: 1.04 g
+        - Fiber: 4.3 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.15 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 43.0 mg
+        - Iron: 4.28 mg
+        - Calcium: 34.0 mg
+        - Potassium: 285.0 mg
+        - Magnesium: 46.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Cereal Grains and Pasta
+        Data Source Type: SR Legacy"
+"Quinoa, raw",168917,"Quinoa, cooked",Cereal Grains and Pasta,SR Legacy,120.0,4.4,21.3,1.92,2.8,0.0,0.231,0.0,7.0,1.49,17.0,172.0,64.0,0.0,0.0,"Food: Quinoa, cooked
+
+        Per 100 grams:
+        - Calories: 120.0 kcal
+        - Protein: 4.4 g
+        - Carbohydrates: 21.3 g
+        - Fat: 1.92 g
+        - Fiber: 2.8 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.231 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 7.0 mg
+        - Iron: 1.49 mg
+        - Calcium: 17.0 mg
+        - Potassium: 172.0 mg
+        - Magnesium: 64.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Cereal Grains and Pasta
+        Data Source Type: SR Legacy"
+"Bulgur, dry",170688,"Bulgur, dry",Cereal Grains and Pasta,SR Legacy,342.0,12.3,75.9,1.33,12.5,0.0,0.232,0.0,17.0,2.46,35.0,410.0,164.0,0.0,0.0,"Food: Bulgur, dry
+
+        Per 100 grams:
+        - Calories: 342.0 kcal
+        - Protein: 12.3 g
+        - Carbohydrates: 75.9 g
+        - Fat: 1.33 g
+        - Fiber: 12.5 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.232 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 17.0 mg
+        - Iron: 2.46 mg
+        - Calcium: 35.0 mg
+        - Potassium: 410.0 mg
+        - Magnesium: 164.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Cereal Grains and Pasta
+        Data Source Type: SR Legacy"
+Tahini,168604,"Seeds, sesame butter, tahini, type of kernels unspecified",Nut and Seed Products,SR Legacy,592.0,17.4,21.5,53.0,4.7,0.0,7.42,0.0,35.0,4.42,141.0,459.0,95.0,4.2,0.0,"Food: Seeds, sesame butter, tahini, type of kernels unspecified
+
+        Per 100 grams:
+        - Calories: 592.0 kcal
+        - Protein: 17.4 g
+        - Carbohydrates: 21.5 g
+        - Fat: 53.0 g
+        - Fiber: 4.7 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 7.42 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 35.0 mg
+        - Iron: 4.42 mg
+        - Calcium: 141.0 mg
+        - Potassium: 459.0 mg
+        - Magnesium: 95.0 mg
+        - Vitamin C: 4.2 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Nut and Seed Products
+        Data Source Type: SR Legacy"
+"Olive oil, extra virgin",748608,"Oil, olive, extra virgin",Fats and Oils,Foundation,0.0,0.0,0.0,0.0,0.0,0.0,15.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Food: Oil, olive, extra virgin
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 0.0 g
+        - Carbohydrates: 0.0 g
+        - Fat: 0.0 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 15.4 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 0.0 mg
+        - Calcium: 0.0 mg
+        - Potassium: 0.0 mg
+        - Magnesium: 0.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fats and Oils
+        Data Source Type: Foundation"
+Ghee,171314,"Butter, Clarified butter (ghee)",Dairy and Egg Products,SR Legacy,900.0,0.0,0.0,100.0,0.0,0.0,60.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Food: Butter, Clarified butter (ghee)
+
+        Per 100 grams:
+        - Calories: 900.0 kcal
+        - Protein: 0.0 g
+        - Carbohydrates: 0.0 g
+        - Fat: 100.0 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 60.0 g
+        - Cholesterol: 300.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 0.0 mg
+        - Calcium: 0.0 mg
+        - Potassium: 0.0 mg
+        - Magnesium: 0.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Dairy and Egg Products
+        Data Source Type: SR Legacy"
+"Avocado, raw",171706,"Avocados, raw, California",Fruits and Fruit Juices,SR Legacy,167.0,1.96,8.64,15.4,6.8,0.0,2.13,0.0,8.0,0.61,13.0,507.0,29.0,8.8,0.0,"Food: Avocados, raw, California
+
+        Per 100 grams:
+        - Calories: 167.0 kcal
+        - Protein: 1.96 g
+        - Carbohydrates: 8.64 g
+        - Fat: 15.4 g
+        - Fiber: 6.8 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 2.13 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 8.0 mg
+        - Iron: 0.61 mg
+        - Calcium: 13.0 mg
+        - Potassium: 507.0 mg
+        - Magnesium: 29.0 mg
+        - Vitamin C: 8.8 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Almonds, unroasted",169406,"Seeds, sesame butter, tahini, from unroasted kernels (non-chemically removed seed coat)",Nut and Seed Products,SR Legacy,607.0,18.0,17.9,56.4,9.3,0.0,7.9,0.0,1.0,6.35,141.0,459.0,353.0,0.0,0.0,"Food: Seeds, sesame butter, tahini, from unroasted kernels (non-chemically removed seed coat)
+
+        Per 100 grams:
+        - Calories: 607.0 kcal
+        - Protein: 18.0 g
+        - Carbohydrates: 17.9 g
+        - Fat: 56.4 g
+        - Fiber: 9.3 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 7.9 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.0 mg
+        - Iron: 6.35 mg
+        - Calcium: 141.0 mg
+        - Potassium: 459.0 mg
+        - Magnesium: 353.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Nut and Seed Products
+        Data Source Type: SR Legacy"
+"Walnuts, raw",2346394,"Nuts, walnuts, English, halves, raw",Nut and Seed Products,Foundation,0.0,14.6,10.9,69.7,5.21,0.0,6.05,0.0,0.0,2.24,88.3,424.0,142.0,0.0,0.0,"Food: Nuts, walnuts, English, halves, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 14.6 g
+        - Carbohydrates: 10.9 g
+        - Fat: 69.7 g
+        - Fiber: 5.21 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 6.05 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 2.24 mg
+        - Calcium: 88.3 mg
+        - Potassium: 424.0 mg
+        - Magnesium: 142.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Nut and Seed Products
+        Data Source Type: Foundation"
+"Peanuts, raw",2515376,"Peanuts, raw",Legumes and Legume Products,Foundation,0.0,23.2,26.5,43.3,8.01,0.0,0.0,0.0,1.49,1.55,49.1,636.0,180.0,0.0,0.0,"Food: Peanuts, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 23.2 g
+        - Carbohydrates: 26.5 g
+        - Fat: 43.3 g
+        - Fiber: 8.01 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.49 mg
+        - Iron: 1.55 mg
+        - Calcium: 49.1 mg
+        - Potassium: 636.0 mg
+        - Magnesium: 180.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: Foundation"
+"Peanut butter, smooth",172458,"Peanut butter, smooth, reduced fat",Legumes and Legume Products,SR Legacy,520.0,25.9,35.6,34.0,5.2,0.0,5.76,0.0,540.0,1.9,35.0,669.0,170.0,0.0,0.0,"Food: Peanut butter, smooth, reduced fat
+
+        Per 100 grams:
+        - Calories: 520.0 kcal
+        - Protein: 25.9 g
+        - Carbohydrates: 35.6 g
+        - Fat: 34.0 g
+        - Fiber: 5.2 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 5.76 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 540.0 mg
+        - Iron: 1.9 mg
+        - Calcium: 35.0 mg
+        - Potassium: 669.0 mg
+        - Magnesium: 170.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Legumes and Legume Products
+        Data Source Type: SR Legacy"
+"Chia seeds, dried",170554,"Seeds, chia seeds, dried",Nut and Seed Products,SR Legacy,486.0,16.5,42.1,30.7,34.4,0.0,3.33,0.0,16.0,7.72,631.0,407.0,335.0,1.6,0.0,"Food: Seeds, chia seeds, dried
+
+        Per 100 grams:
+        - Calories: 486.0 kcal
+        - Protein: 16.5 g
+        - Carbohydrates: 42.1 g
+        - Fat: 30.7 g
+        - Fiber: 34.4 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 3.33 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 16.0 mg
+        - Iron: 7.72 mg
+        - Calcium: 631.0 mg
+        - Potassium: 407.0 mg
+        - Magnesium: 335.0 mg
+        - Vitamin C: 1.6 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Nut and Seed Products
+        Data Source Type: SR Legacy"
+"Flaxseed, whole",2262075,"Flaxseed, ground",Nut and Seed Products,Foundation,0.0,18.0,34.4,37.3,23.1,0.0,3.28,0.0,36.7,5.78,230.0,793.0,372.0,0.0,0.0,"Food: Flaxseed, ground
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 18.0 g
+        - Carbohydrates: 34.4 g
+        - Fat: 37.3 g
+        - Fiber: 23.1 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 3.28 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 36.7 mg
+        - Iron: 5.78 mg
+        - Calcium: 230.0 mg
+        - Potassium: 793.0 mg
+        - Magnesium: 372.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Nut and Seed Products
+        Data Source Type: Foundation"
+"Broccoli, raw",747447,"Broccoli, raw",Vegetables and Vegetable Products,Foundation,31.0,2.57,6.27,0.34,2.4,0.0,0.039,0.0,36.0,0.69,46.0,303.0,21.0,91.3,0.0,"Food: Broccoli, raw
+
+        Per 100 grams:
+        - Calories: 31.0 kcal
+        - Protein: 2.57 g
+        - Carbohydrates: 6.27 g
+        - Fat: 0.34 g
+        - Fiber: 2.4 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.039 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 36.0 mg
+        - Iron: 0.69 mg
+        - Calcium: 46.0 mg
+        - Potassium: 303.0 mg
+        - Magnesium: 21.0 mg
+        - Vitamin C: 91.3 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: Foundation"
+"Spinach, raw",168462,"Spinach, raw",Vegetables and Vegetable Products,SR Legacy,23.0,2.86,3.63,0.39,2.2,0.0,0.063,0.0,79.0,2.71,99.0,558.0,79.0,28.1,0.0,"Food: Spinach, raw
+
+        Per 100 grams:
+        - Calories: 23.0 kcal
+        - Protein: 2.86 g
+        - Carbohydrates: 3.63 g
+        - Fat: 0.39 g
+        - Fiber: 2.2 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.063 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 79.0 mg
+        - Iron: 2.71 mg
+        - Calcium: 99.0 mg
+        - Potassium: 558.0 mg
+        - Magnesium: 79.0 mg
+        - Vitamin C: 28.1 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Cauliflower, raw",2685573,"Cauliflower, raw",Vegetables and Vegetable Products,Foundation,0.0,1.64,4.72,0.238,1.95,0.0,0.0,0.0,20.0,0.334,20.4,274.0,14.2,67.1,0.0,"Food: Cauliflower, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 1.64 g
+        - Carbohydrates: 4.72 g
+        - Fat: 0.238 g
+        - Fiber: 1.95 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 20.0 mg
+        - Iron: 0.334 mg
+        - Calcium: 20.4 mg
+        - Potassium: 274.0 mg
+        - Magnesium: 14.2 mg
+        - Vitamin C: 67.1 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: Foundation"
+"Cabbage, raw",169975,"Cabbage, raw",Vegetables and Vegetable Products,SR Legacy,25.0,1.28,5.8,0.1,2.5,0.0,0.034,0.0,18.0,0.47,40.0,170.0,12.0,36.6,0.0,"Food: Cabbage, raw
+
+        Per 100 grams:
+        - Calories: 25.0 kcal
+        - Protein: 1.28 g
+        - Carbohydrates: 5.8 g
+        - Fat: 0.1 g
+        - Fiber: 2.5 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.034 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 18.0 mg
+        - Iron: 0.47 mg
+        - Calcium: 40.0 mg
+        - Potassium: 170.0 mg
+        - Magnesium: 12.0 mg
+        - Vitamin C: 36.6 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Bell pepper, green, raw",2258588,"Peppers, bell, green, raw",Vegetables and Vegetable Products,Foundation,0.0,0.715,4.78,0.106,0.942,0.0,0.0,0.0,0.0,0.186,7.5,163.0,9.0,99.5,0.0,"Food: Peppers, bell, green, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 0.715 g
+        - Carbohydrates: 4.78 g
+        - Fat: 0.106 g
+        - Fiber: 0.942 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 0.186 mg
+        - Calcium: 7.5 mg
+        - Potassium: 163.0 mg
+        - Magnesium: 9.0 mg
+        - Vitamin C: 99.5 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: Foundation"
+"Bell pepper, red, raw",2258590,"Peppers, bell, red, raw",Vegetables and Vegetable Products,Foundation,0.0,0.896,6.65,0.126,1.16,0.0,0.0,0.0,0.0,0.353,6.36,213.0,11.0,142.0,0.0,"Food: Peppers, bell, red, raw
+
+        Per 100 grams:
+        - Calories: 0.0 kcal
+        - Protein: 0.896 g
+        - Carbohydrates: 6.65 g
+        - Fat: 0.126 g
+        - Fiber: 1.16 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 0.353 mg
+        - Calcium: 6.36 mg
+        - Potassium: 213.0 mg
+        - Magnesium: 11.0 mg
+        - Vitamin C: 142.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: Foundation"
+"Onion, raw",170000,"Onions, raw",Vegetables and Vegetable Products,SR Legacy,40.0,1.1,9.34,0.1,1.7,0.0,0.042,0.0,4.0,0.21,23.0,146.0,10.0,7.4,0.0,"Food: Onions, raw
+
+        Per 100 grams:
+        - Calories: 40.0 kcal
+        - Protein: 1.1 g
+        - Carbohydrates: 9.34 g
+        - Fat: 0.1 g
+        - Fiber: 1.7 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.042 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 4.0 mg
+        - Iron: 0.21 mg
+        - Calcium: 23.0 mg
+        - Potassium: 146.0 mg
+        - Magnesium: 10.0 mg
+        - Vitamin C: 7.4 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Garlic, raw",1104647,"Garlic, raw",Vegetables and Vegetable Products,Foundation,143.0,6.62,28.2,0.38,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,"Food: Garlic, raw
+
+        Per 100 grams:
+        - Calories: 143.0 kcal
+        - Protein: 6.62 g
+        - Carbohydrates: 28.2 g
+        - Fat: 0.38 g
+        - Fiber: 2.7 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 0.0 mg
+        - Calcium: 0.0 mg
+        - Potassium: 0.0 mg
+        - Magnesium: 0.0 mg
+        - Vitamin C: 10.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: Foundation"
+"Zucchini, raw",168565,"Squash, zucchini, baby, raw",Vegetables and Vegetable Products,SR Legacy,21.0,2.71,3.11,0.4,1.1,0.0,0.083,0.0,3.0,0.79,21.0,459.0,33.0,34.1,0.0,"Food: Squash, zucchini, baby, raw
+
+        Per 100 grams:
+        - Calories: 21.0 kcal
+        - Protein: 2.71 g
+        - Carbohydrates: 3.11 g
+        - Fat: 0.4 g
+        - Fiber: 1.1 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.083 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 3.0 mg
+        - Iron: 0.79 mg
+        - Calcium: 21.0 mg
+        - Potassium: 459.0 mg
+        - Magnesium: 33.0 mg
+        - Vitamin C: 34.1 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Cucumber, raw",169225,"Cucumber, peeled, raw",Vegetables and Vegetable Products,SR Legacy,10.0,0.59,2.16,0.16,0.7,0.0,0.078,0.0,2.0,0.22,14.0,136.0,12.0,3.2,0.0,"Food: Cucumber, peeled, raw
+
+        Per 100 grams:
+        - Calories: 10.0 kcal
+        - Protein: 0.59 g
+        - Carbohydrates: 2.16 g
+        - Fat: 0.16 g
+        - Fiber: 0.7 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.078 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 2.0 mg
+        - Iron: 0.22 mg
+        - Calcium: 14.0 mg
+        - Potassium: 136.0 mg
+        - Magnesium: 12.0 mg
+        - Vitamin C: 3.2 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Tomatoes, red, ripe, raw",170457,"Tomatoes, red, ripe, raw, year round average",Vegetables and Vegetable Products,SR Legacy,18.0,0.88,3.89,0.2,1.2,0.0,0.028,0.0,5.0,0.27,10.0,237.0,11.0,13.7,0.0,"Food: Tomatoes, red, ripe, raw, year round average
+
+        Per 100 grams:
+        - Calories: 18.0 kcal
+        - Protein: 0.88 g
+        - Carbohydrates: 3.89 g
+        - Fat: 0.2 g
+        - Fiber: 1.2 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.028 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 5.0 mg
+        - Iron: 0.27 mg
+        - Calcium: 10.0 mg
+        - Potassium: 237.0 mg
+        - Magnesium: 11.0 mg
+        - Vitamin C: 13.7 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Carrots, raw",170393,"Carrots, raw",Vegetables and Vegetable Products,SR Legacy,41.0,0.93,9.58,0.24,2.8,0.0,0.032,0.0,69.0,0.3,33.0,320.0,12.0,5.9,0.0,"Food: Carrots, raw
+
+        Per 100 grams:
+        - Calories: 41.0 kcal
+        - Protein: 0.93 g
+        - Carbohydrates: 9.58 g
+        - Fat: 0.24 g
+        - Fiber: 2.8 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.032 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 69.0 mg
+        - Iron: 0.3 mg
+        - Calcium: 33.0 mg
+        - Potassium: 320.0 mg
+        - Magnesium: 12.0 mg
+        - Vitamin C: 5.9 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Eggplant, raw",169228,"Eggplant, raw",Vegetables and Vegetable Products,SR Legacy,25.0,0.98,5.88,0.18,3.0,0.0,0.034,0.0,2.0,0.23,9.0,229.0,14.0,2.2,0.0,"Food: Eggplant, raw
+
+        Per 100 grams:
+        - Calories: 25.0 kcal
+        - Protein: 0.98 g
+        - Carbohydrates: 5.88 g
+        - Fat: 0.18 g
+        - Fiber: 3.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.034 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 2.0 mg
+        - Iron: 0.23 mg
+        - Calcium: 9.0 mg
+        - Potassium: 229.0 mg
+        - Magnesium: 14.0 mg
+        - Vitamin C: 2.2 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+"Molokhia, raw",167782,"Abiyuch, raw",Fruits and Fruit Juices,SR Legacy,69.0,1.5,17.6,0.1,5.3,0.0,0.014,0.0,20.0,1.61,8.0,304.0,24.0,54.1,0.0,"Food: Abiyuch, raw
+
+        Per 100 grams:
+        - Calories: 69.0 kcal
+        - Protein: 1.5 g
+        - Carbohydrates: 17.6 g
+        - Fat: 0.1 g
+        - Fiber: 5.3 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.014 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 20.0 mg
+        - Iron: 1.61 mg
+        - Calcium: 8.0 mg
+        - Potassium: 304.0 mg
+        - Magnesium: 24.0 mg
+        - Vitamin C: 54.1 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Dates, medjool",168191,"Dates, medjool",Fruits and Fruit Juices,SR Legacy,277.0,1.81,75.0,0.15,6.7,0.0,0.0,0.0,1.0,0.9,64.0,696.0,54.0,0.0,0.0,"Food: Dates, medjool
+
+        Per 100 grams:
+        - Calories: 277.0 kcal
+        - Protein: 1.81 g
+        - Carbohydrates: 75.0 g
+        - Fat: 0.15 g
+        - Fiber: 6.7 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.0 mg
+        - Iron: 0.9 mg
+        - Calcium: 64.0 mg
+        - Potassium: 696.0 mg
+        - Magnesium: 54.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Guava, raw",173044,"Guavas, common, raw",Fruits and Fruit Juices,SR Legacy,68.0,2.55,14.3,0.95,5.4,0.0,0.272,0.0,2.0,0.26,18.0,417.0,22.0,228.0,0.0,"Food: Guavas, common, raw
+
+        Per 100 grams:
+        - Calories: 68.0 kcal
+        - Protein: 2.55 g
+        - Carbohydrates: 14.3 g
+        - Fat: 0.95 g
+        - Fiber: 5.4 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.272 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 2.0 mg
+        - Iron: 0.26 mg
+        - Calcium: 18.0 mg
+        - Potassium: 417.0 mg
+        - Magnesium: 22.0 mg
+        - Vitamin C: 228.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Pomegranate, raw",169134,"Pomegranates, raw",Fruits and Fruit Juices,SR Legacy,83.0,1.67,18.7,1.17,4.0,0.0,0.12,0.0,3.0,0.3,10.0,236.0,12.0,10.2,0.0,"Food: Pomegranates, raw
+
+        Per 100 grams:
+        - Calories: 83.0 kcal
+        - Protein: 1.67 g
+        - Carbohydrates: 18.7 g
+        - Fat: 1.17 g
+        - Fiber: 4.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.12 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 3.0 mg
+        - Iron: 0.3 mg
+        - Calcium: 10.0 mg
+        - Potassium: 236.0 mg
+        - Magnesium: 12.0 mg
+        - Vitamin C: 10.2 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Figs, raw",173021,"Figs, raw",Fruits and Fruit Juices,SR Legacy,74.0,0.75,19.2,0.3,2.9,0.0,0.06,0.0,1.0,0.37,35.0,232.0,17.0,2.0,0.0,"Food: Figs, raw
+
+        Per 100 grams:
+        - Calories: 74.0 kcal
+        - Protein: 0.75 g
+        - Carbohydrates: 19.2 g
+        - Fat: 0.3 g
+        - Fiber: 2.9 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.06 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.0 mg
+        - Iron: 0.37 mg
+        - Calcium: 35.0 mg
+        - Potassium: 232.0 mg
+        - Magnesium: 17.0 mg
+        - Vitamin C: 2.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Watermelon, raw",167765,"Watermelon, raw",Fruits and Fruit Juices,SR Legacy,30.0,0.61,7.55,0.15,0.4,0.0,0.016,0.0,1.0,0.24,7.0,112.0,10.0,8.1,0.0,"Food: Watermelon, raw
+
+        Per 100 grams:
+        - Calories: 30.0 kcal
+        - Protein: 0.61 g
+        - Carbohydrates: 7.55 g
+        - Fat: 0.15 g
+        - Fiber: 0.4 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.016 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.0 mg
+        - Iron: 0.24 mg
+        - Calcium: 7.0 mg
+        - Potassium: 112.0 mg
+        - Magnesium: 10.0 mg
+        - Vitamin C: 8.1 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Mango, raw",169910,"Mangos, raw",Fruits and Fruit Juices,SR Legacy,60.0,0.82,15.0,0.38,1.6,0.0,0.092,0.0,1.0,0.16,11.0,168.0,10.0,36.4,0.0,"Food: Mangos, raw
+
+        Per 100 grams:
+        - Calories: 60.0 kcal
+        - Protein: 0.82 g
+        - Carbohydrates: 15.0 g
+        - Fat: 0.38 g
+        - Fiber: 1.6 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.092 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.0 mg
+        - Iron: 0.16 mg
+        - Calcium: 11.0 mg
+        - Potassium: 168.0 mg
+        - Magnesium: 10.0 mg
+        - Vitamin C: 36.4 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Banana, raw",173944,"Bananas, raw",Fruits and Fruit Juices,SR Legacy,89.0,1.09,22.8,0.33,2.6,0.0,0.112,0.0,1.0,0.26,5.0,358.0,27.0,8.7,0.0,"Food: Bananas, raw
+
+        Per 100 grams:
+        - Calories: 89.0 kcal
+        - Protein: 1.09 g
+        - Carbohydrates: 22.8 g
+        - Fat: 0.33 g
+        - Fiber: 2.6 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.112 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 1.0 mg
+        - Iron: 0.26 mg
+        - Calcium: 5.0 mg
+        - Potassium: 358.0 mg
+        - Magnesium: 27.0 mg
+        - Vitamin C: 8.7 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Apple, raw",168171,"Rose-apples, raw",Fruits and Fruit Juices,SR Legacy,25.0,0.6,5.7,0.3,0.0,0.0,0.0,0.0,0.0,0.07,29.0,123.0,5.0,22.3,0.0,"Food: Rose-apples, raw
+
+        Per 100 grams:
+        - Calories: 25.0 kcal
+        - Protein: 0.6 g
+        - Carbohydrates: 5.7 g
+        - Fat: 0.3 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.0 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 0.0 mg
+        - Iron: 0.07 mg
+        - Calcium: 29.0 mg
+        - Potassium: 123.0 mg
+        - Magnesium: 5.0 mg
+        - Vitamin C: 22.3 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Orange, raw",169103,"Orange peel, raw",Fruits and Fruit Juices,SR Legacy,97.0,1.5,25.0,0.2,10.6,0.0,0.024,0.0,3.0,0.8,161.0,212.0,22.0,136.0,0.0,"Food: Orange peel, raw
+
+        Per 100 grams:
+        - Calories: 97.0 kcal
+        - Protein: 1.5 g
+        - Carbohydrates: 25.0 g
+        - Fat: 0.2 g
+        - Fiber: 10.6 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.024 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 3.0 mg
+        - Iron: 0.8 mg
+        - Calcium: 161.0 mg
+        - Potassium: 212.0 mg
+        - Magnesium: 22.0 mg
+        - Vitamin C: 136.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Grapes, raw",168575,"Grape leaves, raw",Vegetables and Vegetable Products,SR Legacy,93.0,5.6,17.3,2.12,11.0,0.0,0.336,0.0,9.0,2.63,363.0,272.0,95.0,11.1,0.0,"Food: Grape leaves, raw
+
+        Per 100 grams:
+        - Calories: 93.0 kcal
+        - Protein: 5.6 g
+        - Carbohydrates: 17.3 g
+        - Fat: 2.12 g
+        - Fiber: 11.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.336 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 9.0 mg
+        - Iron: 2.63 mg
+        - Calcium: 363.0 mg
+        - Potassium: 272.0 mg
+        - Magnesium: 95.0 mg
+        - Vitamin C: 11.1 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Vegetables and Vegetable Products
+        Data Source Type: SR Legacy"
+Whey protein isolate,173177,"Beverages, Whey protein powder isolate",Beverages,SR Legacy,359.0,58.1,29.1,1.16,0.0,0.0,0.581,12.0,372.0,1.26,698.0,872.0,233.0,34.9,3.49,"Food: Beverages, Whey protein powder isolate
+
+        Per 100 grams:
+        - Calories: 359.0 kcal
+        - Protein: 58.1 g
+        - Carbohydrates: 29.1 g
+        - Fat: 1.16 g
+        - Fiber: 0.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.581 g
+        - Cholesterol: 12.0 mg
+        - Sodium: 372.0 mg
+        - Iron: 1.26 mg
+        - Calcium: 698.0 mg
+        - Potassium: 872.0 mg
+        - Magnesium: 233.0 mg
+        - Vitamin C: 34.9 mg
+        - Vitamin B12: 3.49 µg
+
+        Category: Beverages
+        Data Source Type: SR Legacy"
+"Honey, raw",167782,"Abiyuch, raw",Fruits and Fruit Juices,SR Legacy,69.0,1.5,17.6,0.1,5.3,0.0,0.014,0.0,20.0,1.61,8.0,304.0,24.0,54.1,0.0,"Food: Abiyuch, raw
+
+        Per 100 grams:
+        - Calories: 69.0 kcal
+        - Protein: 1.5 g
+        - Carbohydrates: 17.6 g
+        - Fat: 0.1 g
+        - Fiber: 5.3 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.014 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 20.0 mg
+        - Iron: 1.61 mg
+        - Calcium: 8.0 mg
+        - Potassium: 304.0 mg
+        - Magnesium: 24.0 mg
+        - Vitamin C: 54.1 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Fruits and Fruit Juices
+        Data Source Type: SR Legacy"
+"Cocoa powder, unsweetened",169593,"Cocoa, dry powder, unsweetened",Sweets,SR Legacy,228.0,19.6,57.9,13.7,37.0,0.0,8.07,0.0,21.0,13.9,128.0,1520.0,499.0,0.0,0.0,"Food: Cocoa, dry powder, unsweetened
+
+        Per 100 grams:
+        - Calories: 228.0 kcal
+        - Protein: 19.6 g
+        - Carbohydrates: 57.9 g
+        - Fat: 13.7 g
+        - Fiber: 37.0 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 8.07 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 21.0 mg
+        - Iron: 13.9 mg
+        - Calcium: 128.0 mg
+        - Potassium: 1520.0 mg
+        - Magnesium: 499.0 mg
+        - Vitamin C: 0.0 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Sweets
+        Data Source Type: SR Legacy"
+"Cinnamon, ground",171320,"Spices, cinnamon, ground",Spices and Herbs,SR Legacy,247.0,3.99,80.6,1.24,53.1,0.0,0.345,0.0,10.0,8.32,1000.0,431.0,60.0,3.8,0.0,"Food: Spices, cinnamon, ground
+
+        Per 100 grams:
+        - Calories: 247.0 kcal
+        - Protein: 3.99 g
+        - Carbohydrates: 80.6 g
+        - Fat: 1.24 g
+        - Fiber: 53.1 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 0.345 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 10.0 mg
+        - Iron: 8.32 mg
+        - Calcium: 1000.0 mg
+        - Potassium: 431.0 mg
+        - Magnesium: 60.0 mg
+        - Vitamin C: 3.8 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Spices and Herbs
+        Data Source Type: SR Legacy"
+"Cumin, ground",170923,"Spices, cumin seed",Spices and Herbs,SR Legacy,375.0,17.8,44.2,22.3,10.5,0.0,1.54,0.0,168.0,66.4,931.0,1790.0,366.0,7.7,0.0,"Food: Spices, cumin seed
+
+        Per 100 grams:
+        - Calories: 375.0 kcal
+        - Protein: 17.8 g
+        - Carbohydrates: 44.2 g
+        - Fat: 22.3 g
+        - Fiber: 10.5 g
+        - Sugar: 0.0 g
+        - Saturated Fat: 1.54 g
+        - Cholesterol: 0.0 mg
+        - Sodium: 168.0 mg
+        - Iron: 66.4 mg
+        - Calcium: 931.0 mg
+        - Potassium: 1790.0 mg
+        - Magnesium: 366.0 mg
+        - Vitamin C: 7.7 mg
+        - Vitamin B12: 0.0 µg
+
+        Category: Spices and Herbs
+        Data Source Type: SR Legacy"
