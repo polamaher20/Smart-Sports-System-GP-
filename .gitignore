@@ -14,17 +14,16 @@ __pycache__/
 venv/
 env/
 .venv/
+venv_api/
 .streamlit/secrets.toml
 
 # ========================
 # 🤖 AI Models & Fine-Tuning
 # ========================
-# Specific training paths
 ai/llm_finetuning/data/
 ai/llm_finetuning/outputs/
 ai/llm_finetuning/checkpoints/
 results/
-# General neural network weights & adapters
 *.h5
 *.keras
 *.pt
@@ -46,3 +45,20 @@ results/
 *.log
 .DS_Store
 Thumbs.db
+
+# ========================
+# 📦 Node & Frontend
+# ========================
+node_modules/
+build/
+dist/
+npm-debug.log*
+
+# ========================
+# 🎥 Media & Uploads
+# ========================
+uploads/
+static/analyzed/
+*.mp4
+*.avi
+*.mp3

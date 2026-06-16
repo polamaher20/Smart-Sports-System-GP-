@@ -1,0 +1,15 @@
+BACKEND:
+cd "dir of backend folder" 
+.\venv\Scripts\Activate.ps1   
+python -m uvicorn app.main:app --reload  
+
+CHATBOT:
+cd "dir of backend folder"
+venv_api\Scripts\activate
+python -m uvicorn main:app --host 0.0.0.0 --port 8001 --reload
+
+FRONTEND:
+cd "dir of frontend folder"
+npm run start     
+
+
