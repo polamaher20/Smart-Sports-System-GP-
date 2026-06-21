@@ -296,11 +296,13 @@ def _build_initial_state(
     user_input: str,
     file_path:  str  = "",
     has_file:   bool = False,
+    file_type:  str  = "",
 ) -> dict:
     return {
         "user_input":       user_input,
         "file_path":        file_path,
         "has_file":         has_file,
+        "file_type":        file_type,
         "chat_history":     [],
         "route":            "",
         "rag_answer":       "",
@@ -321,26 +323,14 @@ def _invoke_graph(
     thread_id:  str,
     file_path:  str  = "",
     has_file:   bool = False,
+    file_type:  str  = "",
 ) -> dict:
     g      = get_graph()
     config = {"configurable": {"thread_id": thread_id}}
 
-    # ====================== Memory Trimming ======================
-    try:
-        current = g.get_state(config)
-        history = current.values.get("chat_history", [])
-        if len(history) > MAX_HISTORY:
-            print(f"🧹 Trimming memory: {len(history)} → {MAX_HISTORY} messages")
-            # يمكنك إضافة trim logic أقوى هنا لو حابة
-    except Exception:
-        pass
-
-    # ====================== Invoke Graph ======================
-    initial_state = _build_initial_state(user_input, file_path, has_file)
-
+    initial_state = _build_initial_state(user_input, file_path, has_file, file_type)
     result = g.invoke(initial_state, config=config)
 
-    # ====================== Clean Response ======================
     return {
         "status":       "success" if not result.get("error") else "error",
         "thread_id":    thread_id,
@@ -381,6 +371,9 @@ async def chat(body: ChatRequest):
 # ══════════════════════════════════════════════════════════════════
 #  ENDPOINT 2 — Chat with file upload (multipart form)
 # ══════════════════════════════════════════════════════════════════
+VIDEO_EXTENSIONS = {".mp4", ".mov", ".avi", ".mkv", ".webm"}
+DOC_EXTENSIONS   = {".pdf", ".doc", ".docx"}
+
 @router.post("/upload", response_model=ChatResponse)
 async def chat_with_file(
     message:   str        = Form(...),
@@ -396,6 +389,7 @@ async def chat_with_file(
     thread_id  = thread_id or str(uuid.uuid4())
     saved_path = ""
     has_file   = False
+    file_type  = ""
 
     # ── Save uploaded file ────────────────────────────────────
     if file and file.filename:
@@ -408,7 +402,13 @@ async def chat_with_file(
             await f.write(content)
 
         has_file = True
-        print(f"   📎 File saved: {saved_path} ({len(content)} bytes)")
+
+        if ext in VIDEO_EXTENSIONS:
+            file_type = "video"
+        elif ext in DOC_EXTENSIONS:
+            file_type = "document"
+
+        print(f"   📎 File saved: {saved_path} ({len(content)} bytes) — type: {file_type or 'unknown'}")
 
     try:
         response = _invoke_graph(
@@ -416,6 +416,7 @@ async def chat_with_file(
             thread_id  = thread_id,
             file_path  = saved_path,
             has_file   = has_file,
+            file_type  = file_type,
         )
         return response
 
@@ -423,7 +424,6 @@ async def chat_with_file(
         raise HTTPException(status_code=500, detail=str(e))
 
     finally:
-        # ── Clean up temp file after processing ──────────────
         if saved_path and os.path.exists(saved_path):
             os.remove(saved_path)
             print(f"   🗑️  Temp file deleted: {saved_path}")

@@ -217,7 +217,8 @@ async def analyze_cv_endpoint(
     print("DEBUG job_offer found:", job_offer)
     result = analyze_cv_against_club(file_bytes, file.filename, requirements)
 
-    # الـ real_club_id هو id النادي الحقيقي مش id الـ job offer
+    # real_club_id لازم يكون دايماً الـ id الحقيقي بتاع الـ user بتاع النادي
+    # (مش id الـ job offer) عشان يتطابق مع club-requests و club dashboard
     real_club_id = job_offer.club_id if job_offer else club_id
 
     existing = db.query(CVApplication).filter(
@@ -226,21 +227,20 @@ async def analyze_cv_endpoint(
         CVApplication.source == "cv"
     ).first()
     if existing:
-        # سواء كان rejected أو pending، نسمح بإعادة الرفع
         existing.score      = result["score"]
         existing.status     = "pending"
         existing.met_skills = ", ".join(result["met_skills"])
         existing.position   = result.get("player_position", existing.position)
     else:
         application = CVApplication(
-            user_id   = current_user.id,
-            club_id   = real_club_id,
-            club_name = club_name_resolved,
-            position  = result.get("player_position") or position_resolved,
-            score     = result["score"],
-            status    = "pending",
+            user_id    = current_user.id,
+            club_id    = real_club_id,
+            club_name  = club_name_resolved,
+            position   = result.get("player_position") or position_resolved,
+            score      = result["score"],
+            status     = "pending",
             met_skills = ", ".join(result["met_skills"]),
-            source    = "cv",
+            source     = "cv",
         )
         db.add(application)
         club_user = db.query(User).filter(User.id == real_club_id).first()
@@ -253,6 +253,7 @@ async def analyze_cv_endpoint(
             )
             db.add(notif)
     db.commit()
+    result["club_id"] = real_club_id
     return result
 
 # ── Player: جيب applications بتاعته ──
@@ -306,17 +307,29 @@ def apply_to_club(
     existing = db.query(CVApplication).filter(
         CVApplication.user_id == current_user.id,
         CVApplication.club_id == club_id,
-        CVApplication.source == "player"
+        CVApplication.source == "player",
+        CVApplication.status != "rejected"
     ).first()
     if existing:
         raise HTTPException(status_code=400, detail="انت بالفعل بعتت request لهذا النادي")
 
-    application = CVApplication(
-        user_id=current_user.id, club_id=club_id,
-        club_name=club.full_name, position=current_user.position or "Player",
-        score=0, status="pending", met_skills="", source="player",
-    )
-    db.add(application)
+    # لو فيه request قديم مرفوض لنفس النادي، أعد استخدامه بدل ما تعمل واحد جديد
+    rejected_existing = db.query(CVApplication).filter(
+        CVApplication.user_id == current_user.id,
+        CVApplication.club_id == club_id,
+        CVApplication.source == "player",
+        CVApplication.status == "rejected"
+    ).first()
+    if rejected_existing:
+        rejected_existing.status = "pending"
+    else:
+        application = CVApplication(
+            user_id=current_user.id, club_id=club_id,
+            club_name=club.full_name, position=current_user.position or "Player",
+            score=0, status="pending", met_skills="", source="player",
+        )
+        db.add(application)
+
     notif = Notification(
         user_id=club_id, title="New Player Request! 🏃",
         message=f"{current_user.full_name} sent you a join request",
@@ -352,11 +365,27 @@ def get_club_requests(
 ):
     if current_user.role not in ("admin", "club"):
         raise HTTPException(status_code=403, detail="Clubs only")
-    
+
+    # الـ CV applications بتتحفظ بـ club_id = real club user id (مش job_offer id)
+    # فاستعلام واحد بسيط كفاية: كل الـ requests (player + cv) بتاعة النادي ده
     requests = db.query(CVApplication).filter(
-        CVApplication.club_id == current_user.id,
-        CVApplication.source.in_(["player", "cv"])
+        CVApplication.club_id == current_user.id
     ).order_by(CVApplication.applied_at.desc()).all()
+
+    # Deduplicate CV applications only (لكل يوزر أعلى score)
+    cv_seen = {}
+    player_requests = []
+    for r in requests:
+        if r.source == "player":
+            player_requests.append(r)
+        else:
+            uid = r.user_id
+            if uid not in cv_seen or r.score > cv_seen[uid].score:
+                cv_seen[uid] = r
+
+    # دمج: player requests + CV applications (deduped)
+    final = player_requests + list(cv_seen.values())
+    final.sort(key=lambda r: r.applied_at, reverse=True)
 
     return [
         {
@@ -367,7 +396,7 @@ def get_club_requests(
             "has_cv": r.met_skills is not None and r.met_skills != "",
             "source": r.source,
         }
-        for r in requests
+        for r in final
     ]
 
 # ── Club: قبول أو رفض request ──
@@ -380,12 +409,21 @@ def update_request_status(
 ):
     if current_user.role not in ("admin", "club"):
         raise HTTPException(status_code=403, detail="Clubs only")
-    request = db.query(CVApplication).filter(
-        CVApplication.id == request_id,
-        CVApplication.club_id == current_user.id
-    ).first()
+
+    request = db.query(CVApplication).filter(CVApplication.id == request_id).first()
     if not request:
         raise HTTPException(status_code=404, detail="Request not found")
+
+    # تحقق إن النادي ده هو صاحب الـ request
+    from app.models.job_offer import JobOffer
+    job_offer = db.query(JobOffer).filter(JobOffer.id == request.club_id).first()
+    if job_offer:
+        if job_offer.club_id != current_user.id:
+            raise HTTPException(status_code=403, detail="Not authorized")
+    else:
+        if request.club_id != current_user.id:
+            raise HTTPException(status_code=403, detail="Not authorized")
+
     request.status = status
     notif = Notification(
         user_id=request.user_id,

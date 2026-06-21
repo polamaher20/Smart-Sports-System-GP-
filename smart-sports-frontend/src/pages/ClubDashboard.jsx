@@ -2033,7 +2033,7 @@ const [dbNotifications, setDbNotifications] = useState([]);
 const [clubRequests, setClubRequests] = useState([]);
 const [myPlayers, setMyPlayers] = useState([]);
 const [myOffers, setMyOffers] = useState([]);
-const [offerForm, setOfferForm] = useState({ title: "", position: "", location: "", description: "", sport: "", age_min: "", age_max: "", height_cm: "", experience_years: "", salary_min: "", salary_max: "", deadline: "", required_skills: "" });
+const [offerForm, setOfferForm] = useState({ title:"", position:"", location:"", description:"", sport:"", age_min:"", age_max:"", height_cm:"", experience_years:"", salary_min:"", salary_max:"", deadline:"", required_skills:"" });
 const [showOfferForm, setShowOfferForm] = useState(false);
 const [playerRequests, setPlayerRequests] = useState([]);
 const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
@@ -2170,24 +2170,24 @@ return (
             <h3 style={{fontWeight:700,fontSize:15,color:t.text,marginBottom:16}}>Post New Job Offer</h3>
             <div style={{display:"grid",gridTemplateColumns:isMobile?"1fr":"1fr 1fr",gap:12}}>
             {[
-                ["Title",    "title",    "e.g. Looking for a Striker"],
-                ["Position", "position", "e.g. ST, CM, GK, RW, CB..."],
-                ["Location", "location", "e.g. Cairo, Egypt"],
-                ["Sport",    "sport",    "e.g. Football"],
-                ["Age Min",  "age_min",  "e.g. 18"],
-                ["Age Max",  "age_max",  "e.g. 28"],
-                ["Height (cm min)", "height_cm", "e.g. 175"],
-                ["Experience (years)", "experience_years", "e.g. 3"],
-                ["Salary Min ($)", "salary_min", "e.g. 5000"],
-                ["Salary Max ($)", "salary_max", "e.g. 8000"],
-                ["Deadline", "deadline", "e.g. 2026-07-01"],
-            ].map(([label,key,placeholder])=>(
+                ["Title",             "title",            "e.g. Looking for a Striker",  "text"],
+                ["Position",          "position",         "e.g. ST, CM, GK, RW, CB",     "text"],
+                ["Location",          "location",         "e.g. Cairo, Egypt",            "text"],
+                ["Sport",             "sport",            "e.g. Football",                "text"],
+                ["Age Min",           "age_min",          "e.g. 18",                      "number"],
+                ["Age Max",           "age_max",          "e.g. 28",                      "number"],
+                ["Height (cm min)",   "height_cm",        "e.g. 175",                     "number"],
+                ["Experience (years)","experience_years", "e.g. 3",                       "number"],
+                ["Salary Min ($)",    "salary_min",       "e.g. 5000",                    "number"],
+                ["Salary Max ($)",    "salary_max",       "e.g. 8000",                    "number"],
+                ["Deadline",          "deadline",         "e.g. 2026-08-01",              "text"],
+            ].map(([label,key,placeholder,type])=>(
                 <div key={key}>
                 <label style={{fontSize:12,fontWeight:600,color:t.textMuted,display:"block",marginBottom:4}}>{label}</label>
                 <input
+                    type={type}
                     placeholder={placeholder}
                     value={offerForm[key]}
-                    type={["age_min","age_max","height_cm","experience_years","salary_min","salary_max"].includes(key) ? "number" : "text"}
                     onChange={e=>setOfferForm(prev=>({...prev,[key]:e.target.value}))}
                     style={{width:"100%",padding:"8px 12px",borderRadius:8,border:`1px solid ${t.border}`,background:t.inputBg,color:t.text,fontSize:13,outline:"none"}}
                 />
@@ -2196,7 +2196,7 @@ return (
             <div style={{gridColumn:"1/-1"}}>
                 <label style={{fontSize:12,fontWeight:600,color:t.textMuted,display:"block",marginBottom:4}}>Required Skills <span style={{color:t.textSub,fontWeight:400}}>(comma-separated)</span></label>
                 <input
-                placeholder="e.g. shooting, pace, dribbling, passing"
+                placeholder="e.g. shooting, pace, dribbling"
                 value={offerForm.required_skills}
                 onChange={e=>setOfferForm(prev=>({...prev,required_skills:e.target.value}))}
                 style={{width:"100%",padding:"8px 12px",borderRadius:8,border:`1px solid ${t.border}`,background:t.inputBg,color:t.text,fontSize:13,outline:"none"}}
@@ -2247,23 +2247,7 @@ return (
             <div key={i} style={{background:t.card,borderRadius:16,padding:20,border:`1px solid ${t.border}`,marginBottom:14,display:"flex",alignItems:"flex-start",justifyContent:"space-between",gap:12,flexWrap:"wrap"}}>
                 <div style={{flex:1,minWidth:0}}>
                 <div style={{fontWeight:700,fontSize:15,color:t.text,marginBottom:4}}>{offer.title}</div>
-                <div style={{fontSize:12,color:t.textMuted,marginBottom:6}}>📍 {offer.location} • ⚽ {offer.sport} • 🎯 {offer.position}</div>
-                {(offer.age_min || offer.age_max || offer.height_cm || offer.experience_years) && (
-                    <div style={{display:"flex",gap:8,flexWrap:"wrap",marginBottom:6}}>
-                    {offer.age_min && offer.age_max && <span style={{background:t.bg,border:`1px solid ${t.border}`,borderRadius:6,padding:"2px 8px",fontSize:11,color:t.textMuted}}>Age: {offer.age_min}-{offer.age_max}</span>}
-                    {offer.height_cm && <span style={{background:t.bg,border:`1px solid ${t.border}`,borderRadius:6,padding:"2px 8px",fontSize:11,color:t.textMuted}}>Height: {offer.height_cm}+ cm</span>}
-                    {offer.experience_years && <span style={{background:t.bg,border:`1px solid ${t.border}`,borderRadius:6,padding:"2px 8px",fontSize:11,color:t.textMuted}}>Exp: {offer.experience_years}+ yrs</span>}
-                    {offer.salary_min && offer.salary_max && <span style={{background:t.bg,border:`1px solid ${t.border}`,borderRadius:6,padding:"2px 8px",fontSize:11,color:t.textMuted}}>${offer.salary_min.toLocaleString()}-${offer.salary_max.toLocaleString()}/mo</span>}
-                    {offer.deadline && <span style={{background:t.bg,border:`1px solid ${t.border}`,borderRadius:6,padding:"2px 8px",fontSize:11,color:t.textMuted}}>⏰ {offer.deadline}</span>}
-                    </div>
-                )}
-                {offer.required_skills && (
-                    <div style={{display:"flex",gap:6,flexWrap:"wrap",marginBottom:6}}>
-                    {offer.required_skills.split(",").map(s=>s.trim()).filter(Boolean).map(s=>(
-                        <span key={s} style={{background:"#f0fdf4",color:"#16a34a",borderRadius:6,padding:"2px 8px",fontSize:11,fontWeight:600}}>{s}</span>
-                    ))}
-                    </div>
-                )}
+                <div style={{fontSize:12,color:t.textMuted}}>📍 {offer.location} • ⚽ {offer.sport} • 🎯 {offer.position}</div>
                 <div style={{fontSize:11,color:t.textMuted,marginTop:4}}>{offer.description}</div>
                 </div>
                 <button
